@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hii im creating a file in branch2
+=======
+i hhvae
+this is new file in branch 2
+>>>>>>> branch2
